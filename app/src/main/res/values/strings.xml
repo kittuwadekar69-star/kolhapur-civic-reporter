@@ -1,0 +1,27 @@
+<resources>
+
+<string name="app_name">CityCivic</string>
+
+<!-- Google Sign-In (required if enabled later) -->
+<string name="default_web_client_id">YOUR_CLIENT_ID_HERE</string>
+
+<!-- App Labels -->
+<string name="login">Login</string>
+<string name="register">Register</string>
+<string name="home">Home</string>
+
+<!-- Civic App Text -->
+<string name="report_issue">Report Issue</string>
+<string name="map_view">View Map</string>
+<string name="chatbot">Ask AI Assistant</string>
+
+<!-- Government Info -->
+<string name="gov_support">
+        Supported by local municipal governance for smart civic issue tracking.
+    </string>
+
+<string name="contact_info">
+        Kolhapur Municipal Corporation \nHelpline: 1800-123-456 \nEmail: support@kolhapurcivic.in
+    </string>
+
+</resources>

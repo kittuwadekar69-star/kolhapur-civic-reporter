@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356284381934",
+    "project_id": "kolhapurcivic",
+    "storage_bucket": "kolhapurcivic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356284381934:android:7b2bc08c87b7ca181ed1ff",
+        "android_client_info": {
+          "package_name": "com.example.kolhapurcivic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356284381934-ivedk7h84qm0r4jiru5n2j9t8k5ovlpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kolhapurcivic",
+            "certificate_hash": "4ec6d17288097621bae9ef0f0062534280bc3f79"
+          }
+        },
+        {
+          "client_id": "356284381934-u103u0jrr50qm4kd2b84umjdnkthbreh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsoPTSZo4CrEC3VAkKXD9hmZbFIvh0u6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356284381934-u103u0jrr50qm4kd2b84umjdnkthbreh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
